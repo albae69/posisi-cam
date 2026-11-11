@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" viewBox="0 0 512 512">
+  <title>04 Crosshair Shutter</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <circle id="Shutter_ring" data-name="Shutter ring" cx="256" cy="216" r="150" fill="none" stroke="#141414" stroke-width="26" stroke-miterlimit="10"/>
+    <path id="Ticks" d="M256 66 L256 26 M256 366 L256 406 M106 216 L66 216 M406 216 L446 216" fill="none" stroke="#141414" stroke-width="26" stroke-linecap="round" stroke-miterlimit="10"/>
+    <circle id="Inner_ring" data-name="Inner ring" cx="256" cy="216" r="70" fill="none" stroke="#141414" stroke-width="24" stroke-miterlimit="10"/>
+    <circle id="Center_dot" data-name="Center dot" cx="256" cy="216" r="22" fill="#f5a623"/>
+    <text transform="matrix(1 0 0 1 256 476)" x="0" y="0" xml:space="preserve" font-family="&apos;Helvetica Neue&apos;, sans-serif" font-size="15" font-weight="500" fill="#9a9a9a" text-anchor="middle"><tspan x="0" y="0">04  CROSSHAIR</tspan></text>
+  </g>
+</svg>

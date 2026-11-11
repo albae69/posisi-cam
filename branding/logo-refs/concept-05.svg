@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" viewBox="0 0 512 512">
+  <title>05 Monogram P</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <path id="P_stem" data-name="P stem" d="M203 118 L203 118 C221.225 118 236 132.775 236 151 L236 365 C236 383.225 221.225 398 203 398 L203 398 C184.775 398 170 383.225 170 365 L170 151 C170 132.775 184.775 118 203 118 Z" fill="#141414"/>
+    <path id="P_bowl" data-name="P bowl" d="M210 124 L268 124 C313.287 124 350 160.713 350 206 C350 251.287 313.287 288 268 288 L210 288" fill="none" stroke="#141414" stroke-width="66" stroke-miterlimit="10"/>
+    <circle id="Lens_dot" data-name="Lens dot" cx="266" cy="206" r="22" fill="#f5a623"/>
+    <text transform="matrix(1 0 0 1 256 476)" x="0" y="0" xml:space="preserve" font-family="&apos;Helvetica Neue&apos;, sans-serif" font-size="15" font-weight="500" fill="#9a9a9a" text-anchor="middle"><tspan x="0" y="0">05  MONOGRAM P</tspan></text>
+  </g>
+</svg>

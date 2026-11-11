@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" viewBox="0 0 512 512">
+  <title>01 Pin + Lens</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <path id="Pin" d="M256 440 C150 352 96 292 96 212 C96 124 168 64 256 64 C344 64 416 124 416 212 C416 292 362 352 256 440 Z" fill="none" stroke="#141414" stroke-width="30" stroke-linejoin="round"/>
+    <circle id="Aperture_ring" data-name="Aperture ring" cx="256" cy="205" r="76" fill="none" stroke="#141414" stroke-width="20" stroke-miterlimit="10"/>
+    <text transform="matrix(1 0 0 1 256 476)" x="0" y="0" xml:space="preserve" font-family="&apos;Helvetica Neue&apos;, sans-serif" font-size="15" font-weight="500" fill="#9a9a9a" text-anchor="middle"><tspan x="0" y="0">01  PIN + LENS</tspan></text>
+    <circle id="Lens_inner" data-name="Lens inner" cx="256" cy="205" r="38" fill="none" stroke="#141414" stroke-width="20" stroke-miterlimit="10"/>
+    <circle id="Lens_dot" data-name="Lens dot" cx="256" cy="205" r="14" fill="#f5a623"/>
+  </g>
+</svg>

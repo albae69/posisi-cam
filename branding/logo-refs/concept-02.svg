@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" viewBox="0 0 512 512">
+  <title>02 Frame + Pin</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <path id="Bracket_TL" data-name="Bracket TL" d="M150 210 L150 170 C150 156.667 156.667 150 170 150 L210 150" fill="none" stroke="#141414" stroke-width="30" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Bracket_TR" data-name="Bracket TR" d="M302 150 L342 150 C355.333 150 362 156.667 362 170 L362 210" fill="none" stroke="#141414" stroke-width="30" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Bracket_BL" data-name="Bracket BL" d="M150 302 L150 342 C150 355.333 156.667 362 170 362 L210 362" fill="none" stroke="#141414" stroke-width="30" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Bracket_BR" data-name="Bracket BR" d="M302 362 L342 362 C355.333 362 362 355.333 362 342 L362 302" fill="none" stroke="#141414" stroke-width="30" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Pin" d="M256 336 C210 296 186 270 186 234 C186 195.34 217.34 164 256 164 C294.66 164 326 195.34 326 234 C326 270 302 296 256 336 Z" fill="#141414"/>
+    <circle id="Pin_hole" data-name="Pin hole" cx="256" cy="234" r="26" fill="#ffffff"/>
+    <text transform="matrix(1 0 0 1 256 476)" x="0" y="0" xml:space="preserve" font-family="&apos;Helvetica Neue&apos;, sans-serif" font-size="15" font-weight="500" fill="#9a9a9a" text-anchor="middle"><tspan x="0" y="0">02  FRAME + PIN</tspan></text>
+  </g>
+</svg>

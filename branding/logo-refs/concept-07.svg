@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" viewBox="0 0 512 512">
+  <title>07 Camera + Pin</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <path id="Body" d="M130 186 L382 186 C400.778 186 416 201.222 416 220 L416 362 C416 380.778 400.778 396 382 396 L130 396 C111.222 396 96 380.778 96 362 L96 220 C96 201.222 111.222 186 130 186 Z" fill="none" stroke="#141414" stroke-width="22" stroke-miterlimit="10"/>
+    <path id="Hump" d="M226 152 L286 152 C294 152 298 156 298 164 L298 186 L214 186 L214 164 C214 156 218 152 226 152 Z" fill="none" stroke="#141414" stroke-width="22" stroke-linejoin="round"/>
+    <circle id="Lens_ring" data-name="Lens ring" cx="256" cy="290" r="60" fill="none" stroke="#141414" stroke-width="18" stroke-miterlimit="10"/>
+    <path id="Pin" d="M256 330 C234 310 222 297 222 279 C222 260.222 237.222 245 256 245 C274.778 245 290 260.222 290 279 C290 297 278 310 256 330 Z" fill="#f5a623"/>
+    <circle id="Flash" cx="351" cy="211" r="9" fill="#f5a623"/>
+    <text transform="matrix(1 0 0 1 256 476)" x="0" y="0" xml:space="preserve" font-family="&apos;Helvetica Neue&apos;, sans-serif" font-size="15" font-weight="500" fill="#9a9a9a" text-anchor="middle"><tspan x="0" y="0">07  CAMERA + PIN</tspan></text>
+  </g>
+</svg>
