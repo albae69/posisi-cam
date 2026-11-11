@@ -18,6 +18,9 @@ android {
     buildTypes {
         release {
             isMinifyEnabled = false
+            // ponytail: debug keystore supaya APK bisa diinstal; ganti ke keystore rilis
+            // sendiri kalau mau distribusi lewat Play Store.
+            signingConfig = signingConfigs.getByName("debug")
         }
     }
 
@@ -28,6 +31,11 @@ android {
 
     kotlinOptions {
         jvmTarget = "17"
+    }
+
+    lint {
+        // Aplikasi tidak memakai Fragment sama sekali.
+        disable += "InvalidFragmentVersionForActivityResult"
     }
 }
 
